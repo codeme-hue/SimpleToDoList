@@ -1,2 +1,2 @@
 # SimpleToDoList
-Simple ToDoList with memory storage
+Simple ToDoList with sqlite
